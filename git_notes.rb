@@ -1,10 +1,10 @@
-class Test
+class Car
 
-	def initialize
-		@name = name
-		@engin = engine
-		@status = status
-	end
+  def initialize
+    @name = name
+    @engine = engine
+    @status = status
+  end
 
 	def message
 	 	puts "First conflict"

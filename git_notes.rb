@@ -5,4 +5,9 @@ class Car
     @engine = engine
     @status = status
   end
+
+	def message
+	 	puts "First conflict"
+	end
+
 end
